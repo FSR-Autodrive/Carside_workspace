@@ -1,0 +1,8 @@
+prefix=/home/nvidia/Dylan_workspace/serialtest3/install
+
+Name: my_serial_node
+Description: Description of my_serial_node
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

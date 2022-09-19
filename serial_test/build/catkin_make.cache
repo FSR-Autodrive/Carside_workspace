@@ -1,0 +1,2 @@
+serial_demo
+-DCATKIN_DEVEL_PREFIX=/home/nvidia/Dylan_workspace/serial_test/devel -DCMAKE_INSTALL_PREFIX=/home/nvidia/Dylan_workspace/serial_test/install -G Unix Makefiles

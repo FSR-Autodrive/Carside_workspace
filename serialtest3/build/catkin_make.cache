@@ -1,0 +1,2 @@
+my_serial/ros_serial_code/my_serial_node:my_serial/serial
+-DCATKIN_DEVEL_PREFIX=/home/nvidia/Dylan_workspace/serialtest3/devel -DCMAKE_INSTALL_PREFIX=/home/nvidia/Dylan_workspace/serialtest3/install -G Unix Makefiles

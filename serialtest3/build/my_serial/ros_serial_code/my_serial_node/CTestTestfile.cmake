@@ -1,0 +1,6 @@
+# CMake generated Testfile for 
+# Source directory: /home/nvidia/Dylan_workspace/serialtest3/src/my_serial/ros_serial_code/my_serial_node
+# Build directory: /home/nvidia/Dylan_workspace/serialtest3/build/my_serial/ros_serial_code/my_serial_node
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
